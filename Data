@@ -1,0 +1,6 @@
+Data
+In order to identify the best location where to buy a house for investment, 
+we will combine the data regarding the postal codes in Toronto (in specific, the ones 
+close to the main universities) and the Foursquare location data. We will rank the venues 
+provided by Foursquare as: grocery stores, pharmacies, night clubs, libraries and find the locations 
+that in a walking distance are close to all of them. 
